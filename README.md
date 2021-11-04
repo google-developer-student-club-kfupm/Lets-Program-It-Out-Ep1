@@ -2,8 +2,8 @@
 
 ## Participants
 
+## Topic
 
-## Topic:
-
+## Description
 
 ## Tasks
