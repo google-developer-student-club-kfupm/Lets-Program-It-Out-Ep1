@@ -1,3 +1,7 @@
+"""
+Algorithm (The Best Team)
+"""
+
 import itertools
 import json
 
